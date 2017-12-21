@@ -13,7 +13,7 @@ namespace ICT13580076FinalA
         {
             InitializeComponent();
 
-            MainPage = new ICT13580076FinalA.MainPage();
+            MainPage = new ICT13580076FinalA.NewPage();
         }
 
         protected override void OnStart()
